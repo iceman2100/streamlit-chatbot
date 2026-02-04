@@ -47,7 +47,7 @@ streamlit run app.py
 
 Open the browser at:
 
-http://localhost:8501
+[http://localhost:8501](https://app-chatbot-theqcapv6ll8wnqdymqmuw.streamlit.app/)
 
 🌐 Deployment
 
