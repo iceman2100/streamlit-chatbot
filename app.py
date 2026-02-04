@@ -17,7 +17,13 @@ client = Groq(api_key=api_key)
 # Initialize chat history
 # -----------------------------
 if "messages" not in st.session_state:
-    st.session_state.messages = []
+    st.session_state.messages = [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant."
+        }
+    ]
+
 
 # -----------------------------
 # Display previous messages
