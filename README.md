@@ -30,7 +30,7 @@ The app runs completely on the internet and allows users to chat with an AI mode
 ### 1. Clone the repository
 ```bash
 ```
-git clone https://github.com/your-username/streamlit-chatbot.git
+git clone https://github.com/your-/streamlit-chatbot.git
 cd streamlit-chatbot
 2. Install dependencies
 pip install -r requirements.txt
